@@ -16,6 +16,7 @@
 		C8FE89BC1CBBF6E200C1430E /* StepCounterTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FE89BB1CBBF6E200C1430E /* StepCounterTests.swift */; };
 		C8FE89C71CBBF6E200C1430E /* StepCounterUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FE89C61CBBF6E200C1430E /* StepCounterUITests.swift */; };
 		C8FE89D51CBBF71B00C1430E /* StepCounter.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8FE89D41CBBF71B00C1430E /* StepCounter.swift */; };
+		C8FE89D71CBBF8B600C1430E /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = C8FE89D61CBBF8B600C1430E /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		C8FE89C61CBBF6E200C1430E /* StepCounterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepCounterUITests.swift; sourceTree = "<group>"; };
 		C8FE89C81CBBF6E200C1430E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C8FE89D41CBBF71B00C1430E /* StepCounter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StepCounter.swift; sourceTree = "<group>"; };
+		C8FE89D61CBBF8B600C1430E /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				C8FE89B21CBBF6E200C1430E /* Info.plist */,
 				C8FE89AA1CBBF6E200C1430E /* StepCounter.xcdatamodeld */,
 				C8FE89D41CBBF71B00C1430E /* StepCounter.swift */,
+				C8FE89D61CBBF8B600C1430E /* .gitignore */,
 			);
 			path = StepCounter;
 			sourceTree = "<group>";
@@ -235,6 +238,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C8FE89D71CBBF8B600C1430E /* .gitignore in Resources */,
 				C8FE89B11CBBF6E200C1430E /* LaunchScreen.storyboard in Resources */,
 				C8FE89AE1CBBF6E200C1430E /* Assets.xcassets in Resources */,
 				C8FE89A91CBBF6E200C1430E /* Main.storyboard in Resources */,
