@@ -52,7 +52,7 @@
 		C8FE89C61CBBF6E200C1430E /* StepCounterUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StepCounterUITests.swift; sourceTree = "<group>"; };
 		C8FE89C81CBBF6E200C1430E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		C8FE89D41CBBF71B00C1430E /* StepCounter.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StepCounter.swift; sourceTree = "<group>"; };
-		C8FE89D61CBBF8B600C1430E /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
+		C8FE89D61CBBF8B600C1430E /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = .gitignore; path = StepCounter/.gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +83,7 @@
 		C8FE89971CBBF6E200C1430E = {
 			isa = PBXGroup;
 			children = (
+				C8FE89D61CBBF8B600C1430E /* .gitignore */,
 				C8FE89A21CBBF6E200C1430E /* StepCounter */,
 				C8FE89BA1CBBF6E200C1430E /* StepCounterTests */,
 				C8FE89C51CBBF6E200C1430E /* StepCounterUITests */,
@@ -111,7 +112,6 @@
 				C8FE89B21CBBF6E200C1430E /* Info.plist */,
 				C8FE89AA1CBBF6E200C1430E /* StepCounter.xcdatamodeld */,
 				C8FE89D41CBBF71B00C1430E /* StepCounter.swift */,
-				C8FE89D61CBBF8B600C1430E /* .gitignore */,
 			);
 			path = StepCounter;
 			sourceTree = "<group>";
